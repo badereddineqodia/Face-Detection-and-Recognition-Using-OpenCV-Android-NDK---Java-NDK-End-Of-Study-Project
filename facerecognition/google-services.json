@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798258630998",
+    "firebase_url": "https://smis6pfe-f80b6.firebaseio.com",
+    "project_id": "smis6pfe-f80b6",
+    "storage_bucket": "smis6pfe-f80b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798258630998:android:258ccf74340e5bea",
+        "android_client_info": {
+          "package_name": "com.badereddine.qodia.smipfes6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798258630998-dkfh3lesnk51sel4km414ebde66ht3qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.badereddine.qodia.smipfes6",
+            "certificate_hash": "a2a56fdbc5be021437301c1b49624b6cb41409cb"
+          }
+        },
+        {
+          "client_id": "798258630998-ivfpi5qa53rg90210gc15foc8ud76ru2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyKnncdGjG-YM7Ph5jt5LTtUhiHIGpLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798258630998-ivfpi5qa53rg90210gc15foc8ud76ru2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

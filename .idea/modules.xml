@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-face-recognition-master.iml" filepath="$PROJECT_DIR$/android-face-recognition-master.iml" group="android-face-recognition-master" />
+      <module fileurl="file://$PROJECT_DIR$/facerecognition/facerecognition.iml" filepath="$PROJECT_DIR$/facerecognition/facerecognition.iml" group="android-face-recognition-master/facerecognition" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary2410/openCVLibrary2410.iml" filepath="$PROJECT_DIR$/openCVLibrary2410/openCVLibrary2410.iml" group="android-face-recognition-master/openCVLibrary2410" />
+    </modules>
+  </component>
+</project>

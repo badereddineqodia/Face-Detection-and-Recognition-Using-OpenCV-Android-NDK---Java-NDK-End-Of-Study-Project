@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        >
+
+
+        <Button
+            android:id="@+id/textDateButton"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:fontFamily="@font/medium"
+            android:padding="10dp"
+            android:textColor="#fff"
+            android:gravity="center"
+            android:background="#686868"
+            android:text="Choisi la date :"
+            android:textSize="9dp" />
+
+        <TextView
+            android:id="@+id/textDate"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:fontFamily="@font/bold"
+            android:gravity="center"
+            android:padding="10dp"
+            android:textSize="9dp"
+            android:text="TextView" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+
+        <TextView
+            android:layout_width="286dp"
+            android:layout_height="47dp"
+            android:fontFamily="@font/medium"
+            android:padding="10dp"
+            android:text="Le Nombre Personne Entrant                                                                A la Bibliotheque :"
+            android:textSize="9dp" />
+
+        <TextView
+            android:id="@+id/textNbr"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:fontFamily="@font/bold"
+            android:padding="10dp"
+            android:textSize="9dp"
+            android:text="TextView" />
+    </LinearLayout>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
